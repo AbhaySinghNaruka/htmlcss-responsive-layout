@@ -240,6 +240,11 @@ html {
     margin-bottom: 20px;
 }
 
+.man-1-text p {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
 .arrow-down {
     background-color: #9792E4;
     padding: 10px 12px;
